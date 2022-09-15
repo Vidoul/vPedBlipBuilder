@@ -1,2 +1,3 @@
 # vPedBlipBuilder
-[standalone] Config simple pour créer des peds et blips où vous voulez.
+[Standalone] Config simple pour créer des peds et blips où vous voulez.
+https://discord.gg/zPxVCJFEyU
